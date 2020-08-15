@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there](https://github.com/manzik/manzik/raw/master/gif1.gif)
+![Hey there](https://github.com/manzik/manzik/blob/master/gif2.gif?raw=true)
 <!--
 **manzik/manzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
