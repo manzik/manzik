@@ -1,5 +1,4 @@
-### Hi there 👋
-![Hey there](https://github.com/manzik/manzik/blob/master/gif2.gif?raw=true)
+Get out of my swamp
 <!--
 **manzik/manzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
